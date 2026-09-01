@@ -1,0 +1,12 @@
+Ticker,Stock,Company,Sector,Shares,Buy_Price,Current_Price,Invested_Cost,Market_Value,Unrealized_Gain,ROI_Pct,Dividend_Yield_Pct,Annual_Dividend
+HCLTECH.NS,HCL TECH,HCL Technologies Ltd,Information Technology,150,1120.0,1745.5,168000.0,261825.0,93825.0,55.85,3.15,8247.49
+TCS.NS,TCS,Tata Consultancy Services,Information Technology,40,3350.0,4120.0,134000.0,164800.0,30800.0,22.99,1.95,3213.6
+INFY.NS,INFOSYS,Infosys Limited,Information Technology,120,1420.0,1865.0,170400.0,223800.0,53400.0,31.34,2.4,5371.2
+WIPRO.NS,WIPRO,Wipro Limited,Information Technology,250,410.0,545.0,102500.0,136250.0,33750.0,32.93,1.1,1498.75
+TECHM.NS,TECH MAHINDRA,Tech Mahindra Ltd,Information Technology,80,1180.0,1640.0,94400.0,131200.0,36800.0,38.98,2.75,3608.0
+HDFCBANK.NS,HDFC BANK,HDFC Bank Limited,Banking & Financials,100,1490.0,1680.0,149000.0,168000.0,19000.0,12.75,1.25,2100.0
+AXISBANK.NS,AXIS BANK,Axis Bank Limited,Banking & Financials,90,960.0,1265.0,86400.0,113850.0,27450.0,31.77,0.9,1024.65
+COALINDIA.NS,COAL INDIA,Coal India Limited,Energy & Mining,300,280.0,495.0,84000.0,148500.0,64500.0,76.79,5.2,7722.0
+RVNL.NS,RVNL (RAIL VIKAS),Rail Vikas Nigam Limited,Railways & Infrastructure,350,175.0,565.0,61250.0,197750.0,136500.0,222.86,0.75,1483.13
+IRFC.NS,IRFC (INDIAN RAILWAY),Indian Railway Finance Corp,Railways & Infrastructure,800,75.0,185.0,60000.0,148000.0,88000.0,146.67,1.8,2664.0
+ABCAPITAL.NS,ADITYA BIRLA (ABCAPITAL),Aditya Birla Capital Ltd,Conglomerate & Financials,400,195.0,405.0,78000.0,162000.0,84000.0,107.69,0.6,972.0
